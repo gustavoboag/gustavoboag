@@ -7,7 +7,6 @@
 
 <div style="display: incline_block"<br><br/>
   <img aling="center" alt="html5" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white/>
-  <img aling="center" alt="Python" src=https://banner2.cleanpng.com/20240131/oih/transparent-python-logo-python-icon-symbolizes-flexibility-1710892006866.webp/>
   <img aling="center" alt="java" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/>
 </div>
   
